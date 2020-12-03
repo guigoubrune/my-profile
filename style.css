@@ -1,0 +1,93 @@
+body {
+	text-align: center;
+	background-color: #fcf1f1;
+	color: #ff4b5c;
+	font-family: 'Ubuntu', sans-serif;
+	font-weight: lighter;
+}
+
+h1,h2,h3 {
+ font-family: 'Montserrat', sans-serif;
+}
+h1{
+	text-align: center;
+	color: #9e14a7;
+    font-weight: 900;
+    letter-spacing: 6px;
+    font size: 50px;
+    text-transform: uppercase;
+} 
+h2 {
+	text-align: center;
+	color: #9e14a7;
+    font-weight: 500;
+    letter-spacing: 6px;
+    font size: 50px;
+    text-transform: uppercase;
+}
+h3{
+	text-align: center;
+	color: #9e14a7;
+    font-weight: 500;
+    letter-spacing: 6px;
+    font size: 50px;
+    text-transform: uppercase;
+}
+
+a {
+	text-align: center;
+	font-family: 'Montserrat', sans-serif;
+	text-decoration: none;
+	color: #9e14a7
+	font-weight: bold;
+} 
+a:hover {
+	color: #FF3399
+}
+
+ .container {
+ 	width: 700px;
+ 	margin: 400px auto;
+ }
+
+@media (max-width: 760px) {
+ 	 .container {
+	width: 600px;
+ 	}
+ }
+
+ @media (max-width: 500px) {
+ 	 .container {
+	width: 400px;
+ 	}
+ }
+
+img{
+	text-align: center;
+	display: block;
+	width: auto;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 50%;
+
+}
+
+div{
+	text-align: center;
+}
+
+button {
+	background-color: #F197E7;
+	color: yellow;
+	padding: 0,30px;
+	margin: 7px;
+	border-radius: 40%;
+}
+
+ 
+
+
+
+
+
+
